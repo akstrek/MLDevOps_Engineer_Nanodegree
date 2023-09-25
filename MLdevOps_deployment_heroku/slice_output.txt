@@ -1,0 +1,16 @@
+hs_grad: {'precision': 0.6340425531914894, 'recall': 0.44879518072289154, 'fbeta': 0.5255731922398589}
+masters: {'precision': 0.7790697674418605, 'recall': 0.783625730994152, 'fbeta': 0.7813411078717201}
+10th: {'precision': 1.0, 'recall': 0.14285714285714285, 'fbeta': 0.25}
+12th: {'precision': 1.0, 'recall': 0.25, 'fbeta': 0.4}
+assoc_voc: {'precision': 0.74, 'recall': 0.5, 'fbeta': 0.5967741935483871}
+some_college: {'precision': 0.673469387755102, 'recall': 0.5, 'fbeta': 0.5739130434782608}
+bachelors: {'precision': 0.7529411764705882, 'recall': 0.7511737089201878, 'fbeta': 0.7520564042303173}
+doctorate: {'precision': 0.8235294117647058, 'recall': 0.9032258064516129, 'fbeta': 0.8615384615384616}
+7th_8th: {'precision': 0.6, 'recall': 0.2727272727272727, 'fbeta': 0.37499999999999994}
+assoc_acdm: {'precision': 0.6888888888888889, 'recall': 0.543859649122807, 'fbeta': 0.6078431372549019}
+prof_school: {'precision': 0.8602150537634409, 'recall': 0.9302325581395349, 'fbeta': 0.893854748603352}
+9th: {'precision': 1.0, 'recall': 0.125, 'fbeta': 0.2222222222222222}
+1st_4th: {'precision': 1.0, 'recall': 1.0, 'fbeta': 1.0}
+11th: {'precision': 0.5, 'recall': 0.125, 'fbeta': 0.2}
+5th_6th: {'precision': 1.0, 'recall': 0.2, 'fbeta': 0.33333333333333337}
+preschool: {'precision': 1.0, 'recall': 1.0, 'fbeta': 1.0}
